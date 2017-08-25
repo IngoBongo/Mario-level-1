@@ -5,7 +5,7 @@ SCREEN_WIDTH = 800
 
 SCREEN_SIZE = (SCREEN_WIDTH,SCREEN_HEIGHT)
 
-ORIGINAL_CAPTION = "Super Mario Bros 1-1"
+ORIGINAL_CAPTION = "Super Mario Bros - Nivel 1"
 
 ## COLORS ##
 
@@ -169,9 +169,3 @@ WORLD_CLEAR = 'world clear'
 TIME_WARNING = 'time warning'
 SPED_UP_NORMAL = 'sped up normal'
 MARIO_INVINCIBLE = 'mario invincible'
-
-
-
-
-
-
