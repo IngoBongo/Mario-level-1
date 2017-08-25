@@ -1,33 +1,28 @@
-Super Mario Bros Level 1
+Super Mario Bros - Nivel 1
 =============
 
-An attempt to recreate the first level of Super Mario Bros.
+Juego creado en Python usando Pygame con la intención de recrear el primer nivel de Super Mario Bros.
 
 ![screenshot](https://raw.github.com/justinmeister/Mario-Level-1/master/screenshot.png)
 
-CONTROLS: 
+Controles:
 
-Arrow keys for direction
+Para el movimiento del personaje usaremos las teclas de dirección.
 
-'a' for jump
+'a' para saltar
 
-'s' for action (fireball, run)
+'s' para las acciones como disparar bolas de fuego o correr.
 
-
-DEPENDENCIES:
+Dependencias necesarias:
 
 Pygame 1.9.1 (Python 2)
 
 Pygame 1.9.2 (Python 3) - a little trickier to get going.
 
-To install dependencies for Python 2.x:
+Para instalar las dependencias para Python 2.x:
 
 	pip install -r requirements.txt
 
-VIDEO DEMO:
+## Trabajo futuro
 
-http://www.youtube.com/watch?v=HBbzYKMfx5Y
-   
-DISCLAIMER:
-
-This project is intended for non-commercial educational purposes.
+Este repositorio será utilizado para mostrar el juego en el canal de [YouTube](http://youtube.com/user/ivantraceur8). Además también se pretende realizar algunas modificaciones en él sobre todo para traducir algunas partes del código y hacer modificaciones básicas sobre las mecánicas del juego.
